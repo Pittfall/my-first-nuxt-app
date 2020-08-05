@@ -5,10 +5,6 @@
   </div>
 </template>
 
-<style>
-  
-</style>
-
 <script>
 import Navigation from '~/components/navigation/Navigation.vue'
 
